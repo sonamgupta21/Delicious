@@ -6,16 +6,15 @@ const Header = () => {
     <Wrapper>
       <h1>Simple and Tasty Recipes</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius ex
-        perferendis praesentium quos!
+        Search recipes for your favorite desserts, appetizers, main dish
+        recipes, and more. Find an array of easy recipes as well as home cooking
+        tips, kitchen design insights and diet and nutrition information.
       </p>
     </Wrapper>
   );
 };
 
 const Wrapper = styled.div`
-  /* display: flex; */
-  /* margin-bottom: 5rem; */
   padding: 0rem 2rem 2rem 2rem;
   text-align: center;
 
